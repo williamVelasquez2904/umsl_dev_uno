@@ -21,7 +21,7 @@ def menu_principal():
 
      # Encabezado con logo y texto
     titulo="UNIDAD MEDICA SAN LUIS"
-    titulo="CONTROL DE DEVOLUCIONES"
+    #titulo="CONTROL DE DEVOLUCIONES"
     
     tk.Label(encabezado, image=logo).pack(side=tk.LEFT)
     #tk.Label(menu_window, text=titulo, font=("Arial", 24)).grid(row=0, column=1)
